@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vivek Verma</h1>
-<h3 align="center"> am Vivek, a dedicated full-stack developer passionate about crafting seamless web applications with a commitment to excellence and a knack for pushing the boundaries of innovation.</h3>
+<h3 align="center">I am Vivek, a dedicated full-stack developer passionate about crafting seamless web applications with a commitment to excellence and a knack for pushing the boundaries of innovation.</h3>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekverma4669&label=Profile%20views&color=0e75b6&style=flat" alt="vivekverma4669" /> </p> 
 
