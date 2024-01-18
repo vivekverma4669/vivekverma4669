@@ -87,13 +87,13 @@
 </div>
 <br>
 <br>
-
+<div align="center">
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=vivekverma4669&show_icons=true&locale=en&layout=compact&theme=dracula" alt="GitHub Stats Card" />
-
+</div>
 
 
 <h3 align ="center">  🏆 GitHub Trophies </h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekverma4669&theme=onedark" alt="Thiru63" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekverma4669&theme=onedark" alt="" /></a> </p>
 
 
  <p align="center">
@@ -101,6 +101,6 @@
 </p>
 <p align="center">
 <a href="https://github.com/Thiru63"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thiru63&theme=dracula" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivekverma4669&theme=dracula" />
 </span></a> </p>
 
