@@ -18,7 +18,6 @@
   
 
 <br>
-<br>
 
 <hr>
 <h3 align="left">Connect with me:</h3>
@@ -78,7 +77,7 @@
 <br>
 
 <p align="center">
-<h3  align="center"><b>📒My Github stats:</b></span>
+<h2  align="center"><b>📒My Github stats:</b></h2>
  
 </p>
 <br>
