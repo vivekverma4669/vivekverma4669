@@ -50,10 +50,11 @@
 <hr>
 
 # 📒 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=vivekverma4669&theme=dark&hide_border=false) <br> ![](https://github-readme-stats.vercel.app/api?username=vivekverma4669&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekverma4669&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img algin="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekverma4669&show_icons=true&locale=en&layout=compact&theme=dracula" alt="GitHub Streak Stats" />
+<img  algin ="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekverma4669&show_icons=true&locale=en&layout=compact&theme=dracula" alt=""/>
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=vivekverma4669&show_icons=true&locale=en&layout=compact&theme=dracula" alt="GitHub Stats Card" />
 
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vivekverma4669&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekverma4669&theme=onedark" alt="Thiru63" /></a> </p>
