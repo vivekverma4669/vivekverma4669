@@ -37,7 +37,6 @@
 
 <h2 align="center">💻 Tech Stack</h2>
    
-<img align="left" src="https://github.com/vivekverma4669/vivekverma4669/blob/main/Vivek_programmer_computer_background_developer_0.jpg" alt="coding " width="300px" >
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" alt="html5 logo"  />
@@ -77,15 +76,14 @@
 <hr>
 <br>
 <br>
-<br>
-<br><br>
 
 <p align="center">
 <h3  align="center"><b>📒My Github stats:</b></span>
+ <br>
 </p>
 
-<img   algin="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekverma4669&show_icons=true&locale=en&layout=compact&theme=dracula" alt="GitHub Streak Stats" />
-<img  algin ="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekverma4669&show_icons=true&locale=en&layout=compact&theme=dracula" alt="" height="190px"/>
+<img   algin="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekverma4669&show_icons=true&locale=en&layout=compact&theme=dracula" alt="GitHub Streak Stats" height="120px" />
+<img  algin ="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekverma4669&show_icons=true&locale=en&layout=compact&theme=dracula" alt="" height="120px"/>
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=vivekverma4669&show_icons=true&locale=en&layout=compact&theme=dracula" alt="GitHub Stats Card" />
 
 
