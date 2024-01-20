@@ -15,6 +15,7 @@
 - 📫 How to reach me **vivekverma4679@gmail.com**
 
 - 🌐 [My -  portfollio](https://vivekverma4669.github.io/)
+- 🌐 [My - Resume](https://drive.google.com/file/d/15YAE1RfdRuURKbfp3cX04AzfcGyK8tAj/view?usp=sharing)
   
 
 <br>
