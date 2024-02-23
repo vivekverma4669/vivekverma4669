@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Frame works , Backend ,etc**
 
-- 💬 Ask me about **HTML ,CSS , java , Javascript ,React 
+- 💬 Ask me about HTML ,CSS , java , Javascript ,React , Node , express, mongol DB
 
 - 📫 How to reach me **vivekverma4679@gmail.com**
 
