@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/vivek-verma-594700228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-verma-594700228" height="30" width="40" /></a>
 <a href="https://instagram.com/vivek__.soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivek__.soni" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/vivek4679/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vivek4679/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/vivek4679/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vivek4679/" height="30" width="40" /></a>
 </p>
 
 
