@@ -1,22 +1,34 @@
-
 <h1 align="center">Hi 👋, I'm Vivek Verma</h1>
-<h3 align="center">I am Vivek, a dedicated full-stack developer passionate about crafting seamless web applications with a commitment to excellence and a knack for pushing the boundaries of innovation.</h3>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekverma4669&label=Profile%20views&color=0e75b6&style=flat" alt="vivekverma4669" /> </p> 
+<h3 align="center">
+Frontend-Focused Full-Stack Developer with 2+ years of experience building scalable, production-grade web applications using modern JavaScript technologies.
+</h3>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vivekverma4669&label=Profile%20views&color=0e75b6&style=flat" alt="vivekverma4669" />
+</p>
 
+<img align="right" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" alt="coding" width="450px" />
 
-<img align="right" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" alt="coding " width="450px" >
+* 🚀 Frontend-focused Full-Stack Developer with strong expertise in building modern, scalable, and responsive web applications
 
-- 🌱 I’m currently learning **Frame works , Backend ,etc**
+* 💼 2+ years of hands-on experience working on production-grade frontend applications using React.js and Next.js
 
-- 💬 Ask me about HTML ,CSS , java , Javascript ,React , Node , express, mongol DB
+* 🌱 Currently learning **Docker, Redis, CI/CD Pipelines, Playwright, Backend Scaling, and System Design**
 
-- 📫 How to reach me **vivekverma4679@gmail.com**
+* 💻 Tech Stack: **JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB, Tailwind CSS, Redux Toolkit**
 
-- 🌐 [My -  portfollio](https://vivekverma4669.github.io/)
-- 📑 [My - Resume](https://drive.google.com/file/d/1X4gGqtbBxB9BfnYgYzL3j6_75O8KzBBQ/view?usp=sharing)
-  
+* 🔐 Interested in **Backend Architecture, Authentication, Caching, Performance Optimization, and Scalable Systems**
+
+* 📚 Solved **500+ DSA problems using Java**
+
+* 🤝 Open to collaborating on **Full-Stack and Backend Projects**
+
+* 💬 Ask me about **React.js, Next.js, Frontend Architecture, Node.js, Express.js, MongoDB, REST APIs, JWT Authentication**
+
+* 📫 Reach me at: **[vivekverma4679@gmail.com](mailto:vivekverma4679@gmail.com)**
+
+* ⚡ Fun fact: I enjoy building smooth frontend experiences while continuously exploring scalable backend engineering 🚀
 
 <br>
 
